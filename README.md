@@ -1,220 +1,4 @@
 # Glixen Technologies
-
-## AI-First Software Development & Dedicated Remote Teams
-
-Glixen Technologies helps startups, agencies, enterprises, and growing businesses build intelligent digital products with AI/ML, web, mobile, cloud, DevOps, and UI/UX expertise.
-
-**Website:** https://glixentech.com/  
-**Insights:** https://gtalks.glixentech.com/  
-**Top Priority:** AI/ML Solutions  
-**Starting Rate:** From $25/hour  
-**Experience:** 10+ Years  
-**Offices:** Pakistan, UAE, USA  
-
----
-
-## Company Snapshot
-
-| Highlight | Details |
-|---|---|
-| Experience | 10+ years of software development experience |
-| Team | 120+ skilled developers |
-| Starting Rate | From $25/hour |
-| Offices | Pakistan, UAE, USA |
-| Main Focus | AI/ML-first product engineering |
-| Hiring Models | Hourly, part-time, and full-time dedicated developers |
-| Trial | 3-day free trial |
-
----
-
-## About Glixen Technologies
-
-Glixen Technologies is an AI-first software development company focused on building intelligent, scalable, and business-ready digital products.
-
-We specialize in:
-
-- AI/ML development
-- Custom software development
-- Web application development
-- Mobile app development
-- Dedicated remote developers
-- Cloud and DevOps
-- UI/UX design
-- Offshore software development
-- Software product development
-
-Our mission is to help companies reduce development complexity, scale faster, and build reliable software through experienced remote engineering teams.
-
----
-
-## AI/ML First
-
-Artificial Intelligence and Machine Learning are the top priority at Glixen Technologies.
-
-We help businesses build smarter systems that can automate operations, analyze data, personalize user experiences, and support better decision-making.
-
-### AI Development
-
-- AI-powered web applications
-- AI-powered mobile applications
-- Generative AI integrations
-- AI chatbots and virtual assistants
-- Business process automation
-- AI copilots and workflow assistants
-- Smart dashboards
-- Recommendation systems
-- AI-enabled SaaS platforms
-
-### Machine Learning
-
-- Predictive analytics
-- NLP and text intelligence
-- Computer vision
-- ML model integration
-- Data classification
-- Forecasting systems
-- Intelligent search
-- Custom data pipelines
-- Decision-support systems
-
----
-
-## Core Services
-
-### 1. AI/ML Development
-
-We build intelligent software products using artificial intelligence, machine learning, automation, and data-driven technologies.
-
-**Services include:**
-
-- AI application development
-- Machine learning solutions
-- Generative AI integrations
-- AI chatbot development
-- NLP solutions
-- Computer vision systems
-- Recommendation engines
-- Predictive analytics
-- AI automation workflows
-
----
-
-### 2. Web Development
-
-We create scalable, secure, and high-performing web platforms for startups, agencies, and enterprises.
-
-**Services include:**
-
-- Custom website development
-- Web application development
-- React.js development
-- Next.js development
-- PHP development
-- Laravel development
-- WordPress development
-- API development
-- Admin dashboards
-- CMS-based platforms
-
----
-
-### 3. Mobile App Development
-
-We build user-friendly mobile applications with reliable backend systems and scalable architecture.
-
-**Services include:**
-
-- Android app development
-- iOS app development
-- React Native app development
-- Cross-platform app development
-- AI-powered mobile apps
-- Mobile backend development
-- API integrations
-- App modernization
-- Marketplace apps
-- Business productivity apps
-
----
-
-### 4. Custom Software Development
-
-We develop tailored software systems around business workflows, operations, and product goals.
-
-**Services include:**
-
-- SaaS platforms
-- CRM-style systems
-- ERP-style tools
-- Internal business systems
-- Admin panels
-- Marketplace platforms
-- Workflow automation
-- API-based systems
-- Product MVP development
-- Long-term product support
-
----
-
-### 5. Cloud, DevOps & Infrastructure
-
-We help businesses deploy, scale, monitor, and maintain modern cloud-based software systems.
-
-**Services include:**
-
-- Cloud migration
-- AWS infrastructure
-- Server setup
-- CI/CD pipelines
-- Docker environments
-- Kubernetes workflows
-- Deployment automation
-- Performance optimization
-- Monitoring setup
-- Scalable architecture
-
----
-
-### 6. UI/UX Design
-
-We design clean, user-focused, and conversion-friendly digital experiences for web and mobile products.
-
-**Services include:**
-
-- Product UI design
-- UX research
-- Wireframes
-- Interactive prototypes
-- Web app interfaces
-- Mobile app interfaces
-- Design systems
-- Dashboard design
-- Landing page design
-- User journey optimization
-
----
-
-## Hire Dedicated Developers
-
-Glixen Technologies provides flexible hiring models so businesses can scale development based on project needs.
-
-| Model | Best For | Details |
-|---|---|---|
-| Hourly | Quick fixes, audits, AI integrations, support work, and small tasks | Starting from $25/hour |
-| Part-Time | Growing projects that need consistent development support | 4 hours/day |
-| Full-Time | Long-term products, AI platforms, startups, and agencies | 8 hours/day |
-
-### Available Talent
-
-- AI/ML Engineers
-- Python Developers
-- Full-Stack Developers
-- React Developers
-- Next.js Developers
-- Node.js Developers
-- PHP Developers
-- Laravel Developers
-- WordPress Developers
 - Android Developers
 - iOS Developers
 - React Native Developers
@@ -224,185 +8,192 @@ Glixen Technologies provides flexible hiring models so businesses can scale deve
 
 ---
 
-## Technology Expertise
+### Tech Stack
 
-### AI, ML & Data
+#### AI / ML
 
-- Python
-- TensorFlow
-- PyTorch
-- OpenCV
-- Scikit-learn
-- Pandas
-- NumPy
-- NLP
-- Computer Vision
-- Predictive Analytics
-- Recommendation Systems
-- Data Pipelines
+![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=white)
 
-### Frontend
+#### Frontend
 
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React.js
-- Next.js
-- Vue.js
-- Angular
-- Tailwind CSS
-- Bootstrap
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-111827?style=flat-square&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-111827?style=flat-square&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=white)
 
-### Backend
+#### Backend
 
-- PHP
-- Laravel
-- Node.js
-- Python
-- REST APIs
-- GraphQL
-- WordPress
-- WooCommerce
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-111827?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-111827?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-111827?style=flat-square&logo=woocommerce&logoColor=white)
 
-### Databases
+#### Data
 
-- MySQL
-- PostgreSQL
-- MongoDB
-- Redis
-- Firebase
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=white)
 
-### Mobile
+#### Mobile
 
-- Android
-- iOS
-- React Native
-- Cross-platform apps
-- Mobile APIs
+![Android](https://img.shields.io/badge/Android-111827?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-111827?style=flat-square&logo=apple&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-111827?style=flat-square&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter&logoColor=white)
 
-### Cloud & DevOps
+#### DevOps
 
-- AWS
-- Docker
-- Kubernetes
-- Linux
-- CI/CD
-- Git
-- GitHub
-- Server management
+![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white)
 
-### Design & Product
+#### Design
 
-- Figma
-- UI design
-- UX design
-- Wireframing
-- Prototyping
-- Design systems
-- Product strategy
+![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-111827?style=flat-square&logo=adobexd&logoColor=white)
 
 ---
 
-## Industries We Serve
+### Service Areas
 
-| Industry | Solutions |
-|---|---|
-| AI & Automation | AI tools, automation platforms, intelligent assistants |
-| Healthcare | Patient platforms, dashboards, internal systems, data tools |
-| Education | LMS platforms, student portals, e-learning apps |
-| Ecommerce | Online stores, mobile commerce apps, marketplace platforms |
-| Real Estate | Property portals, listing platforms, agent dashboards |
-| Automotive | Dealership systems, inventory tools, vehicle listing platforms |
-| Food & Restaurant | Ordering systems, delivery platforms, restaurant apps |
-| Travel | Booking platforms, travel portals, itinerary systems |
-| Marketplace | Buyer/seller platforms, freelance systems, listing portals |
-| Business Services | CRM tools, dashboards, internal workflow platforms |
+```text
+AI/ML Solutions
+├── AI Application Development
+├── Generative AI Integrations
+├── AI Chatbots & Assistants
+├── Predictive Analytics
+├── NLP & Text Intelligence
+├── Computer Vision
+├── Recommendation Systems
+└── Business Process Automation
+
+Product Engineering
+├── SaaS Platforms
+├── Web Applications
+├── Mobile Applications
+├── Custom Software
+├── Admin Dashboards
+├── Marketplace Platforms
+├── CRM / ERP-style Systems
+└── API Integrations
+
+Remote Teams
+├── Dedicated Developers
+├── Offshore Development Teams
+├── Staff Augmentation
+├── QA Engineers
+├── DevOps Engineers
+└── UI/UX Designers
+```
 
 ---
 
-## Case Study Areas
+### Industries We Serve
 
-### AI-Powered Business Platforms
+- AI & automation
+- Healthcare
+- Education
+- Ecommerce
+- Real estate
+- Automotive
+- Food delivery
+- Travel
+- Marketplaces
+- Business services
+- SaaS platforms
+- Enterprise software
 
-Intelligent platforms with AI integrations, automation workflows, smart dashboards, data-driven features, and improved user experiences.
+---
 
-### CareCircle360
+### Case Study Areas
+
+#### AI-Powered Business Platforms
+
+AI integrations, automation workflows, smart dashboards, intelligent user journeys, and data-driven product features.
+
+#### CareCircle360
 
 A secure web platform designed to help people privately share locations and keep loved ones safe.
 
-### Freelance Marketplace Systems
+#### Freelance Marketplace Systems
 
-Marketplace platforms with buyer and freelancer dashboards, payments, milestones, communication, and project workflows.
+Buyer and freelancer dashboards, payments, milestones, communication, project workflows, and marketplace operations.
 
-### Automotive & Dealership Systems
+#### Automotive & Dealership Systems
 
-Vehicle listing platforms, dealer dashboards, inventory management, and responsive automotive solutions.
+Vehicle listing platforms, dealer dashboards, inventory management, mobile-responsive layouts, and automotive business tools.
 
-### Food Delivery Platforms
+#### Food Delivery Platforms
 
-Ordering flows, restaurant dashboards, payment integrations, delivery features, and customer-focused interfaces.
+Ordering flows, restaurant dashboards, payment integrations, delivery features, and customer-facing mobile/web interfaces.
 
-### Job Board Platforms
+#### Job Board Platforms
 
-Recruitment platforms with job listings, candidate profiles, employer dashboards, and mobile app ecosystem support.
-
----
-
-## Our Process
-
-| Step | Process | Description |
-|---|---|---|
-| 01 | Discovery | Understand goals, scope, users, technical needs, timeline, and success metrics |
-| 02 | Team Matching | Assign the right developer, designer, or dedicated team |
-| 03 | Free Trial | Start with a 3-day free trial to evaluate quality and communication |
-| 04 | Development | Build through structured sprints, updates, reviews, and milestones |
-| 05 | Launch & Scale | Launch, maintain, improve, and scale the product over time |
+Job listings, candidate profiles, employer dashboards, recruitment workflows, and mobile app ecosystem support.
 
 ---
 
-## Why Choose Glixen Technologies
+### Why Glixen Technologies
 
-- AI/ML is the top development priority
+- AI/ML is our top development priority
 - 10+ years of software development experience
-- Dedicated remote developers starting from $25/hour
+- Dedicated developers starting from $25/hour
 - Offices in Pakistan, UAE, and USA
 - 3-day free development trial
-- Hourly, part-time, and full-time hiring models
-- Skilled full-stack, AI/ML, mobile, cloud, and UI/UX teams
-- Transparent communication and regular progress updates
-- Flexible developer switching
+- Flexible hourly, part-time, and full-time hiring
+- Full-stack, AI/ML, mobile, cloud, and UI/UX teams
+- Transparent communication and progress updates
 - Agile delivery process
-- Long-term product support and maintenance
-- Product-focused engineering mindset
+- Flexible developer switching
+- Long-term support and maintenance
 
 ---
 
-## Offices
+### Offices
 
-| Location | Focus |
-|---|---|
-| Pakistan | Development and engineering operations |
-| UAE | Business and regional presence |
-| USA | Client collaboration and business presence |
+```text
+Pakistan   → Development and engineering operations
+UAE        → Business and regional presence
+USA        → Client collaboration and business presence
+```
 
 ---
 
-## Service Disclaimer
+### Service Disclaimer
 
 Glixen Technologies does not offer services for websites related to gambling, casinos, wines, pornography, music, and movies.
 
 ---
 
-## Connect With Glixen Technologies
+### Let’s Build Something Intelligent
 
-**Website:** https://glixentech.com/  
-**G Talks:** https://gtalks.glixentech.com/
+Open to new projects, dedicated team engagements, AI/ML integrations, and long-term product development partnerships.
+
+[![Start a Project](https://img.shields.io/badge/Start%20a%20Project-glixentech.com-0f172a?style=for-the-badge&logo=rocket&logoColor=white)](https://glixentech.com/)
+[![Read G Talks](https://img.shields.io/badge/Read%20G%20Talks-Insights-4f46e5?style=for-the-badge&logo=readme&logoColor=white)](https://gtalks.glixentech.com/)
 
 ---
 
-## Final Note
+**Glixen Technologies** — AI-first software engineering for modern businesses.
 
-Glixen Technologies helps businesses build intelligent software products with AI-first thinking, experienced developers, and scalable remote development teams.
 
-**Let’s build something intelligent, scalable, and extraordinary together.**
+
