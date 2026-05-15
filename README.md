@@ -1,36 +1,36 @@
 <!--
   Glixen Technologies GitHub Profile README
-  Design direction: premium company profile layout similar to ScriptsBundle README
-  File name: README.md
+  ScriptsBundle-style layout with safer visuals
+  No external banner/footer images
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,45:4f46e5,75:06b6d4,100:22c55e&text=Glixen%20Technologies&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=AI%2FML%20Solutions%20%7C%20Dedicated%20Developers%20%7C%20Web%20%26%20Mobile%20Apps%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=16" alt="Glixen Technologies Banner" />
+# 🌐 Glixen Technologies
+
+### 🤖 AI-First Software Development, Dedicated Remote Teams & Digital Product Engineering
+
+We help startups, agencies, enterprises, and growing businesses build intelligent digital products with **AI/ML**, web development, mobile apps, cloud infrastructure, DevOps, cybersecurity, UI/UX design, and long-term product support.
 
 <br />
 
 <a href="https://glixentech.com/">
-  <img src="https://img.shields.io/badge/Website-glixentech.com-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <img src="https://img.shields.io/badge/Website-glixentech.com-2563EB?style=for-the-badge" alt="Website" />
 </a>
 <a href="#ai-ml-first">
-  <img src="https://img.shields.io/badge/Top%20Priority-AI%2FML-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI ML" />
+  <img src="https://img.shields.io/badge/Top%20Priority-AI%2FML-7C3AED?style=for-the-badge" alt="AI ML" />
 </a>
 <a href="#hire-dedicated-developers">
   <img src="https://img.shields.io/badge/Developers-From%20%2425%2Fhr-F97316?style=for-the-badge" alt="Developers from $25/hr" />
 </a>
 <a href="https://gtalks.glixentech.com/">
-  <img src="https://img.shields.io/badge/G%20Talks-Insights-0EA5E9?style=for-the-badge&logo=readme&logoColor=white" alt="G Talks" />
+  <img src="https://img.shields.io/badge/G%20Talks-Insights-0EA5E9?style=for-the-badge" alt="G Talks" />
 </a>
 
 <br />
 <br />
 
-<h3>AI-first software development company helping businesses build intelligent, scalable, and future-ready digital products.</h3>
-
-<p>
-  <strong>Glixen Technologies</strong> provides dedicated remote developers, AI/ML engineering, web platforms, mobile applications, cloud infrastructure, DevOps, cybersecurity, UI/UX design, and long-term product engineering support.
-</p>
+<strong>Build smarter. Scale faster. Hire better.</strong>
 
 </div>
 
@@ -73,7 +73,7 @@ Our delivery model is designed for businesses that need reliable technical execu
 
 ---
 
-## Market Presence & Delivery Strength
+## Delivery Strength
 
 <div align="center">
 
@@ -358,16 +358,16 @@ Glixen Technologies gives businesses flexible access to dedicated developers bas
 
 <div align="center">
 
-![AI ML](https://img.shields.io/badge/AI%2FML%20Engineers-7C3AED?style=flat-square)
-![Python](https://img.shields.io/badge/Python%20Developers-2563EB?style=flat-square)
-![Full Stack](https://img.shields.io/badge/Full--Stack%20Developers-0891B2?style=flat-square)
-![React](https://img.shields.io/badge/React%20Developers-06B6D4?style=flat-square)
-![Node](https://img.shields.io/badge/Node.js%20Developers-16A34A?style=flat-square)
-![Laravel](https://img.shields.io/badge/Laravel%20Developers-EF4444?style=flat-square)
-![WordPress](https://img.shields.io/badge/WordPress%20Developers-2563EB?style=flat-square)
-![Mobile](https://img.shields.io/badge/Mobile%20Developers-F97316?style=flat-square)
-![UI UX](https://img.shields.io/badge/UI%2FUX%20Designers-EC4899?style=flat-square)
-![DevOps](https://img.shields.io/badge/DevOps%20Engineers-0F172A?style=flat-square)
+<img src="https://img.shields.io/badge/AI%2FML%20Engineers-7C3AED?style=flat-square" alt="AI ML Engineers" />
+<img src="https://img.shields.io/badge/Python%20Developers-2563EB?style=flat-square" alt="Python Developers" />
+<img src="https://img.shields.io/badge/Full--Stack%20Developers-0891B2?style=flat-square" alt="Full Stack Developers" />
+<img src="https://img.shields.io/badge/React%20Developers-06B6D4?style=flat-square" alt="React Developers" />
+<img src="https://img.shields.io/badge/Node.js%20Developers-16A34A?style=flat-square" alt="Node.js Developers" />
+<img src="https://img.shields.io/badge/Laravel%20Developers-EF4444?style=flat-square" alt="Laravel Developers" />
+<img src="https://img.shields.io/badge/WordPress%20Developers-2563EB?style=flat-square" alt="WordPress Developers" />
+<img src="https://img.shields.io/badge/Mobile%20Developers-F97316?style=flat-square" alt="Mobile Developers" />
+<img src="https://img.shields.io/badge/UI%2FUX%20Designers-EC4899?style=flat-square" alt="UI UX Designers" />
+<img src="https://img.shields.io/badge/DevOps%20Engineers-0F172A?style=flat-square" alt="DevOps Engineers" />
 
 </div>
 
@@ -379,40 +379,40 @@ Glixen Technologies gives businesses flexible access to dedicated developers bas
 
 ### AI, ML & Data
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge" alt="PyTorch" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" alt="OpenCV" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge" alt="Scikit Learn" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge" alt="NumPy" />
 
 <br />
 <br />
 
 ### Web & Backend
 
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge" alt="React.js" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge" alt="Next.js" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge" alt="Vue.js" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge" alt="Angular" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge" alt="PHP" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge" alt="Laravel" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge" alt="Node.js" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge" alt="WordPress" />
 
 <br />
 <br />
 
 ### Mobile, Cloud & Tools
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge" alt="Android" />
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge" alt="iOS" />
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge" alt="React Native" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge" alt="Figma" />
 
 </div>
 
@@ -743,10 +743,10 @@ Glixen Technologies does not offer services for websites related to gambling, ca
 <div align="center">
 
 <a href="https://glixentech.com/">
-  <img src="https://img.shields.io/badge/Visit%20Website-glixentech.com-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website" />
+  <img src="https://img.shields.io/badge/Visit%20Website-glixentech.com-2563EB?style=for-the-badge" alt="Visit Website" />
 </a>
 <a href="https://gtalks.glixentech.com/">
-  <img src="https://img.shields.io/badge/Read%20G%20Talks-Glixen%20Insights-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="G Talks" />
+  <img src="https://img.shields.io/badge/Read%20G%20Talks-Glixen%20Insights-7C3AED?style=for-the-badge" alt="G Talks" />
 </a>
 
 <br />
@@ -763,8 +763,6 @@ Glixen Technologies does not offer services for websites related to gambling, ca
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:22c55e,50:06b6d4,100:0f172a" alt="Footer" />
 
 ### Glixen Technologies
 
