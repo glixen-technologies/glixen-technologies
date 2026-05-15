@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:2563eb,100:06b6d4&text=Glixen%20Technologies&fontColor=ffffff&fontSize=54&fontAlignY=35&desc=Remote%20Developers%20%7C%20Web%20Development%20%7C%20Mobile%20Apps%20%7C%20Cloud%20%7C%20UI%2FUX&descAlignY=57&descSize=17" alt="Glixen Technologies Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:020617,40:4f46e5,75:06b6d4,100:22c55e&text=Glixen%20Technologies&fontColor=ffffff&fontSize=54&fontAlignY=35&desc=AI%2FML%20Solutions%20%7C%20Remote%20Developers%20%7C%20Web%20%26%20Mobile%20Apps%20%7C%20Cloud%20%7C%20UI%2FUX&descAlignY=57&descSize=17" alt="Glixen Technologies Banner" />
 
 <br />
 
@@ -22,10 +22,10 @@
 <br />
 <br />
 
-<h3>Hire dedicated remote developers, build scalable software, and digitize your business with confidence.</h3>
+<h3>AI-first software development company helping businesses build intelligent, scalable, and future-ready digital products.</h3>
 
 <p>
-  <strong>Glixen Technologies</strong> helps businesses, agencies, startups, and enterprises build reliable web platforms, mobile apps, cloud solutions, and custom software products with flexible remote development teams.
+  <strong>Glixen Technologies</strong> helps startups, agencies, enterprises, and growing businesses hire dedicated developers and build advanced AI/ML solutions, web platforms, mobile apps, cloud systems, and custom software products.
 </p>
 
 </div>
@@ -34,11 +34,11 @@
 
 ## About Glixen Technologies
 
-**Glixen Technologies** is a remote software development and dedicated developer hiring company focused on helping businesses digitize, scale, and modernize their operations through expert development resources.
+**Glixen Technologies** is an AI-first software development and dedicated developer hiring company with **10+ years of experience** in delivering modern digital solutions for businesses worldwide.
 
-We provide flexible access to skilled developers, designers, engineers, and technology specialists across modern web, mobile, cloud, DevOps, UI/UX, and software product development stacks.
+We specialize in **Artificial Intelligence**, **Machine Learning**, **custom software development**, **web development**, **mobile app development**, **cloud solutions**, **DevOps**, **UI/UX design**, and **remote dedicated development teams**.
 
-Our mission is simple: help companies save time, reduce development costs, and launch high-quality digital products through reliable remote teams and transparent workflows.
+Our mission is to help companies reduce development complexity, scale faster, and build intelligent digital products using reliable engineering talent, modern technologies, and transparent workflows.
 
 ---
 
@@ -50,7 +50,7 @@ Our mission is simple: help companies save time, reduce development costs, and l
 
 ### What We Do
 
-We help businesses hire skilled developers and technology teams for custom software, web development, mobile app development, cloud migration, UI/UX design, and offshore development.
+We help businesses hire skilled developers and technology teams for AI/ML solutions, automation platforms, custom software, web development, mobile app development, cloud migration, UI/UX design, and offshore development.
 
 Glixen Technologies is built for companies that need reliable engineering support without the complexity of traditional hiring.
 
@@ -63,12 +63,54 @@ Glixen Technologies is built for companies that need reliable engineering suppor
 |---|---|
 | Company | Glixen Technologies |
 | Website | [glixentech.com](https://glixentech.com/) |
-| Offices | USA & UAE |
+| Offices | Pakistan, UAE & USA |
+| Top Priority | AI/ML Solutions |
 | Model | Remote Dedicated Developers |
 | Trial | 3-Day Free Trial |
-| Starting Rate | From $15/hour |
-| Experience | 7+ Years |
+| Starting Rate | From $25/hour |
+| Experience | 10+ Years |
 | Team | 120+ Skilled Developers |
+
+</td>
+</tr>
+</table>
+
+---
+
+## Top Priority: AI/ML Solutions
+
+Glixen Technologies places **Artificial Intelligence and Machine Learning** at the center of its modern software development strategy.
+
+We help businesses build smarter products, automate operations, improve decision-making, and unlock new opportunities through intelligent software systems.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AI Development
+
+- AI-powered web and mobile applications
+- Business process automation
+- AI chatbot development
+- AI assistants and copilots
+- Intelligent recommendation systems
+- AI-based workflow optimization
+- Generative AI integrations
+- AI product prototyping
+
+</td>
+<td width="50%" valign="top">
+
+### Machine Learning
+
+- Predictive analytics
+- Data-driven decision systems
+- Machine learning model integration
+- Computer vision solutions
+- NLP and text intelligence
+- Data classification systems
+- Forecasting models
+- Custom ML pipelines
 
 </td>
 </tr>
@@ -82,29 +124,35 @@ Glixen Technologies is built for companies that need reliable engineering suppor
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
+  <h2>10+</h2>
+  <strong>Years Experience</strong>
+  <br />
+  <sub>Long-term software delivery expertise</sub>
+</td>
+<td align="center" width="20%">
   <h2>1200+</h2>
   <strong>Happy Clients</strong>
   <br />
   <sub>Businesses served across industries</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
   <h2>120+</h2>
   <strong>Skilled Developers</strong>
   <br />
   <sub>Experienced technology specialists</sub>
 </td>
-<td align="center" width="25%">
-  <h2>710+</h2>
-  <strong>Global Customers</strong>
+<td align="center" width="20%">
+  <h2>$25/hr</h2>
+  <strong>Starting Rate</strong>
   <br />
-  <sub>Worldwide development support</sub>
+  <sub>Flexible dedicated hiring</sub>
 </td>
-<td align="center" width="25%">
-  <h2>98%</h2>
-  <strong>Client Retention</strong>
+<td align="center" width="20%">
+  <h2>3</h2>
+  <strong>Global Offices</strong>
   <br />
-  <sub>Long-term customer relationships</sub>
+  <sub>Pakistan, UAE, and USA</sub>
 </td>
 </tr>
 </table>
@@ -117,6 +165,26 @@ Glixen Technologies is built for companies that need reliable engineering suppor
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### AI/ML Development
+
+We build intelligent solutions that help businesses automate, personalize, predict, and scale smarter.
+
+**Includes:**
+
+- AI application development
+- Machine learning solutions
+- AI chatbot development
+- Generative AI integrations
+- NLP solutions
+- Computer vision systems
+- Recommendation engines
+- Predictive analytics
+- AI automation workflows
+- Data-driven product features
+
+</td>
 <td width="50%" valign="top">
 
 ### Web Development Services
@@ -133,8 +201,13 @@ We build modern, scalable, and business-ready web platforms for startups, agenci
 - Next.js applications
 - Full-stack development
 - CMS-based platforms
+- AI-enabled web platforms
+- API-based web systems
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### Mobile App Development
@@ -146,6 +219,7 @@ We create mobile experiences for businesses that need reliable, scalable, and us
 - Android app development
 - iOS app development
 - React Native applications
+- AI-powered mobile apps
 - Mobile-first product ecosystems
 - App backend development
 - API integrations
@@ -153,9 +227,6 @@ We create mobile experiences for businesses that need reliable, scalable, and us
 - Cross-platform development
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### Custom Software Development
@@ -166,6 +237,7 @@ We help companies build tailored software products for unique workflows, operati
 
 - SaaS platforms
 - Internal business systems
+- AI-enabled business tools
 - Marketplace platforms
 - Admin dashboards
 - CRM-style tools
@@ -174,6 +246,9 @@ We help companies build tailored software products for unique workflows, operati
 - Automation workflows
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### Offshore Software Development
@@ -185,21 +260,19 @@ We provide flexible offshore development teams that work as an extension of your
 - Dedicated developers
 - Remote engineering teams
 - Staff augmentation
-- Long-term development support
+- AI/ML engineers
+- Full-stack developers
+- Mobile app developers
 - Agile development squads
 - Cost-effective team scaling
-- Project-based delivery
-- Product maintenance
+- Long-term product support
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
-### Cloud & DevOps
+### Cloud, DevOps & UI/UX
 
-We support cloud-ready infrastructure, deployment workflows, and modern DevOps practices.
+We support cloud-ready infrastructure, deployment workflows, modern DevOps practices, and user-focused product design.
 
 **Includes:**
 
@@ -211,24 +284,8 @@ We support cloud-ready infrastructure, deployment workflows, and modern DevOps p
 - Server setup
 - Deployment automation
 - Performance optimization
-
-</td>
-<td width="50%" valign="top">
-
-### UI/UX Design
-
-We design user-focused digital experiences that improve usability, engagement, and product clarity.
-
-**Includes:**
-
-- Product UI design
-- UX research
-- Wireframes
-- Prototypes
-- Web app interfaces
-- Mobile app interfaces
+- Product UI/UX design
 - Design systems
-- Conversion-focused layouts
 
 </td>
 </tr>
@@ -238,7 +295,7 @@ We design user-focused digital experiences that improve usability, engagement, a
 
 ## Hire Dedicated Developers
 
-Glixen Technologies gives businesses flexible access to dedicated developers based on their workload, budget, and project needs.
+Glixen Technologies gives businesses flexible access to dedicated developers based on workload, budget, and project needs.
 
 <div align="center">
 
@@ -246,17 +303,17 @@ Glixen Technologies gives businesses flexible access to dedicated developers bas
 <tr>
 <td align="center" width="33%">
   <h3>Hourly</h3>
-  <p>Best for short tasks, quick support, urgent fixes, and small feature requests.</p>
-  <strong>Minimum: 40 Hours</strong>
+  <p>Best for short tasks, quick support, urgent fixes, AI integrations, and small feature requests.</p>
+  <strong>Starting From $25/hour</strong>
 </td>
 <td align="center" width="33%">
   <h3>Part-Time</h3>
-  <p>Best for growing projects that need consistent development support.</p>
+  <p>Best for growing projects that need consistent development support without hiring full-time staff.</p>
   <strong>4 Hours / Day</strong>
 </td>
 <td align="center" width="33%">
   <h3>Full-Time</h3>
-  <p>Best for long-term products, startups, agencies, and dedicated workflows.</p>
+  <p>Best for long-term products, AI platforms, startups, agencies, and dedicated workflows.</p>
   <strong>8 Hours / Day</strong>
 </td>
 </tr>
@@ -274,14 +331,14 @@ Glixen Technologies gives businesses flexible access to dedicated developers bas
 
 ### 01. Tell Us What You Need
 
-Share your project goals, required skill set, timeline, and development needs.
+Share your project goals, required skill set, AI/ML needs, timeline, and development requirements.
 
 </td>
 <td width="33%" align="center" valign="top">
 
 ### 02. Start Your Free Trial
 
-Get matched with a suitable developer and begin with a 3-day free trial.
+Get matched with a suitable developer or development team and begin with a 3-day free trial.
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -299,6 +356,13 @@ Kick off the project with your selected developer and begin building with struct
 ## Technology Stack
 
 <div align="center">
+
+### AI, ML & Data
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn" alt="AI ML Stack" />
+
+<br />
+<br />
 
 ### Frontend
 
@@ -326,7 +390,20 @@ Kick off the project with your selected developer and begin building with struct
 
 ```text
 Glixen Technologies/
+├── AI/ML Solutions
+│   ├── AI Application Development
+│   ├── Machine Learning Solutions
+│   ├── Generative AI Integrations
+│   ├── AI Chatbots & Assistants
+│   ├── NLP Solutions
+│   ├── Computer Vision
+│   ├── Predictive Analytics
+│   ├── Recommendation Engines
+│   └── AI Automation Workflows
+│
 ├── Dedicated Remote Developers
+│   ├── AI/ML Engineers
+│   ├── Python Developers
 │   ├── WordPress Developers
 │   ├── PHP Developers
 │   ├── Laravel Developers
@@ -348,11 +425,11 @@ Glixen Technologies/
 │   └── UI/UX Design
 │
 ├── Engineering Stack
+│   ├── Python / TensorFlow / PyTorch
 │   ├── WordPress
 │   ├── PHP / Laravel
 │   ├── React.js / Next.js
 │   ├── Node.js
-│   ├── Python
 │   ├── MySQL / PostgreSQL / MongoDB
 │   ├── AWS / Docker / Kubernetes
 │   └── React Native / Android / iOS
@@ -374,17 +451,17 @@ Glixen Technologies/
 
 <table>
 <tr>
+<td align="center" width="20%">🤖<br /><strong>AI & Automation</strong></td>
 <td align="center" width="20%">🎓<br /><strong>Education</strong></td>
 <td align="center" width="20%">🍽️<br /><strong>Food & Restaurant</strong></td>
 <td align="center" width="20%">✈️<br /><strong>Travel</strong></td>
 <td align="center" width="20%">🏥<br /><strong>Healthcare</strong></td>
-<td align="center" width="20%">🎮<br /><strong>Gaming</strong></td>
 </tr>
 <tr>
+<td align="center" width="20%">🎮<br /><strong>Gaming</strong></td>
 <td align="center" width="20%">🛒<br /><strong>Ecommerce</strong></td>
 <td align="center" width="20%">🏪<br /><strong>Marketplace</strong></td>
 <td align="center" width="20%">🚗<br /><strong>Automotive</strong></td>
-<td align="center" width="20%">🏦<br /><strong>Banking</strong></td>
 <td align="center" width="20%">🏠<br /><strong>Real Estate</strong></td>
 </tr>
 </table>
@@ -401,6 +478,20 @@ Glixen Technologies has worked on product and platform solutions across multiple
 <tr>
 <td width="50%" valign="top">
 
+### AI-Powered Business Solutions
+
+Custom AI-powered platforms designed to automate workflows, improve productivity, and support smarter business decisions.
+
+**Scope:**
+
+- AI integrations
+- Automation workflows
+- Data-driven features
+- Intelligent user experiences
+
+</td>
+<td width="50%" valign="top">
+
 ### CareCircle360
 
 A web platform designed to help people privately share locations and keep loved ones safe.
@@ -413,6 +504,9 @@ A web platform designed to help people privately share locations and keep loved 
 - Web platform delivery
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### Freelance Marketplace Platform
@@ -427,9 +521,6 @@ A WordPress-based marketplace system for freelancers, buyers, projects, mileston
 - Project management features
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### Car Dealership Management
@@ -444,6 +535,9 @@ A dealership management solution for automotive businesses and mobile-responsive
 - Responsive web experience
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### Food Delivery Platform
@@ -458,9 +552,6 @@ A WordPress-based food delivery solution with modern layouts, ordering flows, in
 - Payment integrations
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### Job Board Platform
@@ -475,20 +566,6 @@ A recruitment-focused WordPress product with Android and iOS app ecosystem suppo
 - Mobile app support
 
 </td>
-<td width="50%" valign="top">
-
-### Custom Product Development
-
-Tailored software and digital products built around business goals, user requirements, and scalable development architecture.
-
-**Scope:**
-
-- Product discovery
-- Custom development
-- UI/UX
-- Long-term support
-
-</td>
 </tr>
 </table>
 
@@ -500,6 +577,10 @@ Tailored software and digital products built around business goals, user require
 <tr>
 <td width="50%" valign="top">
 
+### AI-First Development Mindset
+
+We prioritize AI/ML where it can improve automation, personalization, prediction, operational efficiency, and product intelligence.
+
 ### Client-Focused Process
 
 We focus on understanding business goals before development begins. Every engagement starts with requirements, planning, and careful developer matching.
@@ -508,24 +589,20 @@ We focus on understanding business goals before development begins. Every engage
 
 We support accountability through communication, progress updates, project tracking, and time tracking.
 
-### Flexible Hiring
-
-Clients can hire hourly, part-time, or full-time developers based on workload and budget.
-
 </td>
 <td width="50%" valign="top">
 
 ### Skilled Development Teams
 
-Our team includes WordPress developers, full-stack engineers, mobile developers, UI/UX designers, DevOps specialists, and cloud engineers.
+Our team includes AI/ML engineers, Python developers, full-stack engineers, mobile developers, UI/UX designers, DevOps specialists, and cloud engineers.
 
-### Time Zone Compatibility
+### Global Office Presence
 
-We offer overlap with US working hours to support smoother collaboration with global clients.
+We support clients through offices and presence across Pakistan, UAE, and USA.
 
 ### Scalable Delivery
 
-From quick fixes to long-term product development, our development model is designed to scale with client needs.
+From quick fixes to long-term AI platforms and product development, our development model is designed to scale with client needs.
 
 </td>
 </tr>
@@ -535,16 +612,18 @@ From quick fixes to long-term product development, our development model is desi
 
 ## Engagement Benefits
 
+- AI/ML as a top development priority
+- 10+ years of software development experience
+- Dedicated remote developers starting from $25/hour
 - 3-day free development trial
-- Dedicated remote developers
 - Hourly, part-time, and full-time hiring models
 - Agile methodology
 - Regular progress updates
 - Time tracking for accountability
 - Flexible developer switching
-- 4-hour overlap with US time zone
+- US time zone overlap
 - English communication support
-- Skilled full-stack development teams
+- Skilled full-stack and AI/ML development teams
 - Client-oriented development approach
 - Creative design-thinking team
 - Cost-effective development support
@@ -557,13 +636,17 @@ From quick fixes to long-term product development, our development model is desi
 
 <table>
 <tr>
-<td align="center" width="50%">
-  <h3>🇺🇸 USA Office</h3>
-  <p>Virginia, United States of America</p>
+<td align="center" width="33%">
+  <h3>🇵🇰 Pakistan Office</h3>
+  <p>Pakistan</p>
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
   <h3>🇦🇪 UAE Office</h3>
   <p>Dubai, United Arab Emirates</p>
+</td>
+<td align="center" width="33%">
+  <h3>🇺🇸 USA Office</h3>
+  <p>Virginia, United States of America</p>
 </td>
 </tr>
 </table>
@@ -596,10 +679,10 @@ Glixen Technologies does not offer services for websites related to gambling, ca
 <br />
 <br />
 
-<h3>Let’s build something extraordinary together.</h3>
+<h3>Let’s build something intelligent, scalable, and extraordinary together.</h3>
 
 <p>
-  Hire dedicated developers, start your free trial, and move your digital product forward with Glixen Technologies.
+  Hire dedicated developers, build AI-powered products, start your free trial, and move your digital product forward with Glixen Technologies.
 </p>
 
 </div>
@@ -608,11 +691,11 @@ Glixen Technologies does not offer services for websites related to gambling, ca
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06b6d4,50:2563eb,100:020617" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:22c55e,50:06b6d4,100:020617" alt="Footer" />
 
 ### Glixen Technologies
 
-**Your Partner in Cutting-Edge Remote Services**
+**AI-first remote software development company for modern businesses.**
 
 </div>
 
