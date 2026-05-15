@@ -636,12 +636,6 @@ AI integrations, automation workflows, smart dashboards, data-driven features, a
 
 ---
 
-## ⚠️ Service Disclaimer
-
-Glixen Technologies does not offer services for websites related to gambling, casinos, wines, pornography, music, and movies.
-
----
-
 ## 📞 Contact
 
 For development support, dedicated developers, AI/ML solutions, product engineering, or project consultation:
